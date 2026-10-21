@@ -1,0 +1,230 @@
+{
+ "eintraege": [
+  {
+   "id": "paket-01-tag01",
+   "paket": "paket-01",
+   "tag": 1,
+   "typ": "karussell",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag01_1.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag01_2.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag01_3.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag01_4.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag01_5.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag01_6.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag01_7.jpg"
+   ],
+   "cover": null,
+   "caption": "Was kostet ein Einfamilienhaus von 1998 im Monat? (Eigenwerbung)\n\nDas Beispielhaus aus unserer App Heimblick: 142 m², Kredit über 320.000 €.\n\n▪️ 888,15 € Zinsen\n▪️ 619,89 € laufende Kosten\n= 1.508,04 € echte Kosten im Monat\n\nDazu kommen 658,52 € Tilgung. Die gehen zwar vom Konto, bauen aber Eigentum auf.\n\nWie sieht das bei deinem Haus aus? Rechne es in Heimblick nach, Link in der Bio.\n\nAlle Zahlen sind ein Beispiel, keine Finanzberatung.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag02",
+   "paket": "paket-01",
+   "tag": 2,
+   "typ": "reel",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag02.mp4"
+   ],
+   "cover": "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag02_cover.jpg",
+   "caption": "Was geht im November vom Konto? (Eigenwerbung)\n\nIm Abbuchungskalender von Heimblick steht jeder Posten mit Tag und Betrag: Strom, Gas, Müll, Grundsteuer. Zwölf Monate im Voraus.\n\nGezeigt ist das Beispielhaus aus der App. Link in der Bio.\n\n#hausbau #bauherren #hausbau2026 #eigenheim #nebenkosten",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag03",
+   "paket": "paket-01",
+   "tag": 3,
+   "typ": "karussell",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag03_1.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag03_2.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag03_3.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag03_4.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag03_5.jpg"
+   ],
+   "cover": null,
+   "caption": "7 Termine, die jedes Jahr am Haus hängen. Zum Speichern. (Eigenwerbung)\n\n1. Grundsteuer: 15.2., 15.5., 15.8., 15.11.\n2. Schornsteinfeger laut Feuerstättenbescheid\n3. Feuerstättenschau: zweimal in sieben Jahren\n4. Heizungswartung\n5. Rauchmelder prüfen\n6. Wohngebäudeversicherung ansehen\n7. Ende der Zinsbindung\n\nIn Heimblick stehen alle Termine mit Erinnerung an einer Stelle. Link in der Bio.\n\nWelcher Termin fehlt noch auf der Liste?\n\n#grundsteuer #hausbesitzer #eigenheim #einfamilienhaus #nebenkosten",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag04",
+   "paket": "paket-01",
+   "tag": 4,
+   "typ": "reel",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag04.mp4"
+   ],
+   "cover": "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag04_cover.jpg",
+   "caption": "Tilgung ist kein verlorenes Geld. (Eigenwerbung)\n\nIm Beispielhaus gehen 2.166,56 € im Monat vom Konto. Echte Kosten davon: 1.508,04 € (Zinsen und laufende Kosten). Die übrigen 658,52 € senken die Restschuld.\n\nHeimblick zeigt beides getrennt. Link in der Bio.\n\nBeispielzahlen aus der App, keine Finanzberatung.\n\n#immobilienkauf #baufinanzierung #eigentumswohnung #hauskauf #hausbesitzer",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag05",
+   "paket": "paket-01",
+   "tag": 5,
+   "typ": "bild",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag05_1.jpg"
+   ],
+   "cover": null,
+   "caption": "Grundsteuer: die vier Termine im Jahr. Zum Speichern. (Eigenwerbung)\n\n15. Februar · 15. Mai · 15. August · 15. November\n\nAuf Antrag geht auch eine Zahlung im Jahr, zum 1. Juli.\n\nIn Heimblick legst du die Grundsteuer einmal an, die App erinnert vor jeder Abbuchung. Link in der Bio.\n\n#grundsteuer #hausbesitzer #eigenheim #einfamilienhaus #nebenkosten",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag06",
+   "paket": "paket-01",
+   "tag": 6,
+   "typ": "karussell",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag06_1.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag06_2.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag06_3.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag06_4.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag06_5.jpg"
+   ],
+   "cover": null,
+   "caption": "Wie viel Rücklage braucht ein Haus? (Eigenwerbung)\n\nDie Petersche Formel:\nHerstellungskosten je m² × 1,5 ÷ 80 × Wohnfläche = Rücklage pro Jahr\n\nIm Beispielhaus (142 m², 2.000 € je m²): 5.325 € im Jahr, also 443,75 € im Monat.\n\nEin Startwert zum Nachdenken, keine Vorschrift. Heimblick rechnet ihn mit deinen Zahlen aus. Link in der Bio.\n\nKeine Finanzberatung.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag07",
+   "paket": "paket-01",
+   "tag": 7,
+   "typ": "reel",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag07.mp4"
+   ],
+   "cover": "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag07_cover.jpg",
+   "caption": "Handwerker im Haus gehabt? (Eigenwerbung)\n\nNach § 35a zählen 20 % der Lohn-, Fahrt- und Maschinenkosten, höchstens 1.200 € im Jahr. Material zählt nicht. Bezahlt per Überweisung, mit Rechnung.\n\nHeimblick sammelt die Lohnkosten deiner Reparaturen übers Jahr und zeigt den Richtwert. Im Beispielhaus: bis zu 401 €.\n\nRichtwert, keine Steuerberatung. Link in der Bio.\n\n#hausbau #bauherren #hausbau2026 #eigenheim #nebenkosten",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag08",
+   "paket": "paket-01",
+   "tag": 8,
+   "typ": "karussell",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag08_1.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag08_2.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag08_3.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag08_4.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag08_5.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag08_6.jpg"
+   ],
+   "cover": null,
+   "caption": "Was nach 15 Jahren Zinsbindung noch offen ist. Eine Beispielrechnung. (Eigenwerbung)\n\n320.000 € Kredit, 3,8 % Zins, 2 % Tilgung, Rate 1.546,67 €.\nNach 15 Jahren: 190.875 € offen.\n\nBleibt die Rate gleich, läuft der Rest\n▪️ bei 3,0 % noch 12,3 Jahre\n▪️ bei 4,5 % noch 13,8 Jahre\n▪️ bei 5,5 % noch 15,2 Jahre\n\nHeimblick rechnet das mit deinem Kredit durch. Link in der Bio.\n\nBeispielrechnung, keine Finanzberatung.\n\n#immobilienkauf #baufinanzierung #eigentumswohnung #hauskauf #hausbesitzer",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag09",
+   "paket": "paket-01",
+   "tag": 9,
+   "typ": "reel",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag09.mp4"
+   ],
+   "cover": "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag09_cover.jpg",
+   "caption": "Wann endet deine Zinsbindung, und was ist dann noch offen? (Eigenwerbung)\n\nHeimblick zeigt den ganzen Tilgungsplan: Restschuld zu jedem Zeitpunkt, Zins- und Tilgungsanteil jeder Rate, Sondertilgungen.\n\nGezeigt ist das Beispielhaus aus der App. Link in der Bio.\n\n#immobilienkauf #baufinanzierung #eigentumswohnung #hauskauf #hausbesitzer",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag10",
+   "paket": "paket-01",
+   "tag": 10,
+   "typ": "karussell",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag10_1.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag10_2.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag10_3.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag10_4.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag10_5.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag10_6.jpg"
+   ],
+   "cover": null,
+   "caption": "10 Reparaturen in 5 Jahren an einem Haus von 1998. (Eigenwerbung)\n\nVom Spülkasten für 214,50 € bis zum Dachfenster für 1.285 €. Zusammen 5.528,20 €, im Schnitt 1.106 € im Jahr.\n\nIn Heimblick hängt an jeder Reparatur der Beleg (Foto oder PDF), und die Lohnkosten zählen gleich für den Handwerker-Bonus mit. Link in der Bio.\n\nBeispielhaus aus der App. Was war bei dir die teuerste Reparatur?\n\n#hausbau #bauherren #hausbau2026 #eigenheim #nebenkosten",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag11",
+   "paket": "paket-01",
+   "tag": 11,
+   "typ": "reel",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag11.mp4"
+   ],
+   "cover": "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag11_cover.jpg",
+   "caption": "Wie viel vom Haus gehört dir schon? (Eigenwerbung)\n\nHeimblick rechnet: deine eigene Schätzung des Werts minus offene Restschuld. Im Beispielhaus sind das 222.189,54 €.\n\nDie Schätzung trägst du selbst ein, zum Beispiel nach dem Bodenrichtwert. Link in der Bio.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag12",
+   "paket": "paket-01",
+   "tag": 12,
+   "typ": "bild",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag12_1.jpg"
+   ],
+   "cover": null,
+   "caption": "Herbst am Haus: 5 Dinge für die Liste. Zum Speichern. (Eigenwerbung)\n\n1. Heizkörper entlüften\n2. Dachrinne und Fallrohre reinigen\n3. Außenwasserhahn absperren und leeren\n4. Rauchmelder testen\n5. Termin für die Heizungswartung eintragen\n\nWiederkehrende Termine erinnern dich in Heimblick jedes Jahr von selbst. Link in der Bio.\n\nWas steht bei dir noch drauf?\n\n#grundsteuer #hausbesitzer #eigenheim #einfamilienhaus #nebenkosten",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag13",
+   "paket": "paket-01",
+   "tag": 13,
+   "typ": "karussell",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag13_1.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag13_2.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag13_3.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag13_4.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag13_5.jpg",
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag13_6.jpg"
+   ],
+   "cover": null,
+   "caption": "12 laufende Posten, 619,89 € im Monat. (Eigenwerbung)\n\nSo verteilen sich die laufenden Kosten im Beispielhaus (142 m², Baujahr 1998):\n▪️ monatlich: Heizung, Strom, Internet\n▪️ vierteljährlich: Grundsteuer, Abwasser, Müll, Rundfunk\n▪️ halbjährlich und jährlich: Niederschlagswasser, Versicherungen, Wartung, Schornsteinfeger\n\nZusammen 7.438,72 € im Jahr. Heimblick rechnet alles auf den Monat um. Link in der Bio.\n\n#grundsteuer #hausbesitzer #eigenheim #einfamilienhaus #nebenkosten",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-01-tag14",
+   "paket": "paket-01",
+   "tag": 14,
+   "typ": "reel",
+   "datum": null,
+   "zeit": "18:30",
+   "medien": [
+    "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag14.mp4"
+   ],
+   "cover": "https://cdn.jsdelivr.net/gh/BrockAImusic/heimblick-instagram@main/medien/paket-01/tag14_cover.jpg",
+   "caption": "Monatlich, vierteljährlich, jährlich: alles auf den Monat umgerechnet. (Eigenwerbung)\n\nIn Heimblick legst du jeden laufenden Posten einmal an, mit Betrag und Rhythmus. Die App zeigt, was das im Monat und im Jahr ausmacht und wann die nächste Abbuchung kommt.\n\nGezeigt ist das Beispielhaus aus der App. Link in der Bio.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
+   "freigegeben": false
+  }
+ ],
+ "stand": "2026-10-21T18:45:41"
+}
