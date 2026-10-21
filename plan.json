@@ -1,42 +1,6 @@
 {
  "eintraege": [
   {
-   "id": "test-trocken-reel",
-   "paket": "test",
-   "tag": 2,
-   "typ": "reel",
-   "datum": "2026-10-21",
-   "zeit": "00:00",
-   "medien": [
-    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-01/tag02.mp4"
-   ],
-   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-01/tag02_cover.jpg",
-   "caption": "Was geht im November vom Konto? (Eigenwerbung)\n\nIm Abbuchungskalender von Heimblick steht jeder Posten mit Tag und Betrag: Strom, Gas, Müll, Grundsteuer. Zwölf Monate im Voraus.\n\nGezeigt ist das Beispielhaus aus der App. Link in der Bio.\n\n#hausbau #bauherren #hausbau2026 #eigenheim #nebenkosten",
-   "freigegeben": false,
-   "trockenlauf": true
-  },
-  {
-   "id": "test-trocken-karussell",
-   "paket": "test",
-   "tag": 1,
-   "typ": "karussell",
-   "datum": "2026-10-21",
-   "zeit": "00:00",
-   "medien": [
-    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-01/tag01_1.jpg",
-    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-01/tag01_2.jpg",
-    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-01/tag01_3.jpg",
-    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-01/tag01_4.jpg",
-    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-01/tag01_5.jpg",
-    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-01/tag01_6.jpg",
-    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-01/tag01_7.jpg"
-   ],
-   "cover": null,
-   "caption": "Was kostet ein Einfamilienhaus von 1998 im Monat? (Eigenwerbung)\n\nDas Beispielhaus aus unserer App Heimblick: 142 m², Kredit über 320.000 €.\n\n▪️ 888,15 € Zinsen\n▪️ 619,89 € laufende Kosten\n= 1.508,04 € echte Kosten im Monat\n\nDazu kommen 658,52 € Tilgung. Die gehen zwar vom Konto, bauen aber Eigentum auf.\n\nWie sieht das bei deinem Haus aus? Rechne es in Heimblick nach, Link in der Bio.\n\nAlle Zahlen sind ein Beispiel, keine Finanzberatung.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
-   "freigegeben": false,
-   "trockenlauf": true
-  },
-  {
    "id": "paket-01-tag01",
    "paket": "paket-01",
    "tag": 1,
