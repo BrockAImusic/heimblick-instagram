@@ -1,6 +1,20 @@
 {
  "eintraege": [
   {
+   "id": "paket-02-r01",
+   "paket": "paket-02",
+   "tag": 1,
+   "typ": "reel",
+   "datum": "2026-10-22",
+   "zeit": "18:45",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/r01.mp4"
+   ],
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/r01_cover.jpg",
+   "caption": "Was kostet dein Haus im Monat? (Eigenwerbung)\n\nDie Kreditrate allein ist es nicht. Grundsteuer, Versicherung, Müll und Schornsteinfeger kommen dazu, jedes zu einem anderen Termin.\n\nHeimblick rechnet alles auf den Monat um. Im Beispielhaus:\n▪️ 888 € Zinsen\n▪️ 620 € laufende Kosten\n= 1.508 € echte Kosten im Monat\n\nDie Tilgung zählt nicht dazu. Die baut dein Eigentum auf.\n\nWie viel ist es bei dir? Rechne es mit Heimblick nach, Link in der Bio.\n\nBeispielzahlen aus der App, keine Finanzberatung.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
+   "freigegeben": true
+  },
+  {
    "id": "paket-01-tag01",
    "paket": "paket-01",
    "tag": 1,
@@ -226,5 +240,5 @@
    "freigegeben": false
   }
  ],
- "stand": "2026-10-21T18:49:44"
+ "stand": "2026-10-22T18:29:03"
 }
