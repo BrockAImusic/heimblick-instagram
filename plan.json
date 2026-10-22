@@ -1,17 +1,322 @@
 {
  "eintraege": [
   {
-   "id": "paket-02-r01",
+   "id": "paket-02-tag01",
    "paket": "paket-02",
    "tag": 1,
    "typ": "reel",
    "datum": "2026-10-22",
-   "zeit": "18:45",
+   "zeit": "18:30",
    "medien": [
-    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/r01.mp4"
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag01.mp4"
    ],
-   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/r01_cover.jpg",
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag01_cover.jpg",
    "caption": "Was kostet dein Haus im Monat? (Eigenwerbung)\n\nDie Kreditrate allein ist es nicht. Grundsteuer, Versicherung, Müll und Schornsteinfeger kommen dazu, jedes zu einem anderen Termin.\n\nHeimblick rechnet alles auf den Monat um. Im Beispielhaus:\n▪️ 888 € Zinsen\n▪️ 620 € laufende Kosten\n= 1.508 € echte Kosten im Monat\n\nDie Tilgung zählt nicht dazu. Die baut dein Eigentum auf.\n\nWie viel ist es bei dir? Rechne es mit Heimblick nach, Link in der Bio.\n\nBeispielzahlen aus der App, keine Finanzberatung.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
+   "freigegeben": false
+  },
+  {
+   "id": "paket-02-tag02",
+   "paket": "paket-02",
+   "tag": 2,
+   "typ": "karussell",
+   "datum": "2026-10-23",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag02_1.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag02_2.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag02_3.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag02_4.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag02_5.jpg"
+   ],
+   "cover": null,
+   "caption": "Was kostet dein Haus im Monat? Einmal Bild für Bild. (Eigenwerbung)\n\n1. Zur Kreditrate kommen Grundsteuer, Versicherung, Müll, Schornsteinfeger.\n2. Heimblick rechnet alles auf den Monat um.\n3. Im Beispielhaus: 1.508,04 € echte Kosten. Die Tilgung zählt nicht dazu.\n\nZum Speichern. Link in der Bio.\n\nBeispielzahlen aus der App, keine Finanzberatung.\n\n#grundsteuer #hausbesitzer #eigenheim #einfamilienhaus #nebenkosten",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag03",
+   "paket": "paket-02",
+   "tag": 3,
+   "typ": "reel",
+   "datum": "2026-10-24",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag03.mp4"
+   ],
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag03_cover.jpg",
+   "caption": "Handwerker im Haus gehabt? (Eigenwerbung)\n\nDann liegt da vielleicht Geld. 20 % der Arbeitskosten zählen bei der Steuer, bis zu 1.200 € im Jahr. Material zählt nicht, bezahlt sein muss per Überweisung.\n\nIn Heimblick trägst du bei jeder Reparatur die Lohnkosten ein und fotografierst die Rechnung gleich dazu. Die App zählt übers Jahr mit. Im Beispielhaus: bis zu 401 €.\n\nLink in der Bio. Richtwert, keine Steuerberatung.\n\n#hausbau #bauherren #hausbau2026 #eigenheim #nebenkosten",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag04",
+   "paket": "paket-02",
+   "tag": 4,
+   "typ": "karussell",
+   "datum": "2026-10-25",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag04_1.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag04_2.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag04_3.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag04_4.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag04_5.jpg"
+   ],
+   "cover": null,
+   "caption": "Handwerker-Bonus: so rechnet § 35a. Zum Speichern. (Eigenwerbung)\n\n▪️ 20 % der Arbeitskosten\n▪️ höchstens 1.200 € im Jahr\n▪️ Material zählt nicht\n▪️ Rechnung und Überweisung, keine Barzahlung\n\nHeimblick sammelt die Lohnkosten deiner Reparaturen und zeigt den Richtwert. Link in der Bio.\n\nRichtwert, keine Steuerberatung.\n\n#hausbau #bauherren #hausbau2026 #eigenheim #nebenkosten",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag05",
+   "paket": "paket-02",
+   "tag": 5,
+   "typ": "reel",
+   "datum": "2026-10-26",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag05.mp4"
+   ],
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag05_cover.jpg",
+   "caption": "Was passiert, wenn deine Zinsbindung endet? (Eigenwerbung)\n\nDer Kredit ist dann nicht weg. Im Beispielhaus sind 2037 noch rund 114.000 € offen, und dafür braucht es einen neuen Zins.\n\nIn Heimblick trägst du Zins und Tilgung ein und siehst sofort die neue Monatsrate. Im Beispiel: 711 €. Und zwei Jahre vorher erinnert dich die App.\n\nLink in der Bio. Beispielrechnung, keine Finanzberatung.\n\n#immobilienkauf #baufinanzierung #eigentumswohnung #hauskauf #hausbesitzer",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag06",
+   "paket": "paket-02",
+   "tag": 6,
+   "typ": "karussell",
+   "datum": "2026-10-27",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag06_1.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag06_2.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag06_3.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag06_4.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag06_5.jpg"
+   ],
+   "cover": null,
+   "caption": "Zinsbindung endet: Was dann? (Eigenwerbung)\n\n1. Der Kredit ist nicht weg. Im Beispielhaus sind 2037 noch rund 114.000 € offen.\n2. In Heimblick den neuen Zins eintragen, die neue Rate steht sofort da.\n3. Zwei Jahre vorher erinnert dich die App.\n\nLink in der Bio. Beispielrechnung, keine Finanzberatung.\n\n#immobilienkauf #baufinanzierung #eigentumswohnung #hauskauf #hausbesitzer",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag07",
+   "paket": "paket-02",
+   "tag": 7,
+   "typ": "reel",
+   "datum": "2026-10-28",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag07.mp4"
+   ],
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag07_cover.jpg",
+   "caption": "Was geht nächsten Monat alles vom Konto? (Eigenwerbung)\n\nStrom und Gas jeden Monat, Grundsteuer im Quartal, Versicherung einmal im Jahr.\n\nHeimblick zeigt dir die nächsten zwölf Monate: jeder Posten mit Datum und Betrag, jeder Monat mit seiner Summe. Fällt ein Termin aufs Wochenende, steht gleich dabei, wann die Bank bucht.\n\nIm Beispielhaus sind es im November 2.172,75 €. Link in der Bio.\n\n#grundsteuer #hausbesitzer #eigenheim #einfamilienhaus #nebenkosten",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag08",
+   "paket": "paket-02",
+   "tag": 8,
+   "typ": "karussell",
+   "datum": "2026-10-29",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag08_1.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag08_2.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag08_3.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag08_4.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag08_5.jpg"
+   ],
+   "cover": null,
+   "caption": "Was geht nächsten Monat vom Konto? (Eigenwerbung)\n\nHeimblick zeigt die nächsten zwölf Monate: jeder Posten mit Datum und Betrag, jeder Monat mit seiner Summe. Und wenn ein Termin aufs Wochenende fällt, wann die Bank wirklich bucht.\n\nLink in der Bio.\n\n#grundsteuer #hausbesitzer #eigenheim #einfamilienhaus #nebenkosten",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag09",
+   "paket": "paket-02",
+   "tag": 9,
+   "typ": "reel",
+   "datum": "2026-10-30",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag09.mp4"
+   ],
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag09_cover.jpg",
+   "caption": "Alle Hauskosten in zwei Minuten erfasst? (Eigenwerbung)\n\nHeimblick fragt kurz: Haus oder Wohnung, wie groß, womit heizt du? Dann schlägt die App vor, was fast jeder hat: Grundsteuer, Müll, Strom, Versicherung.\n\nAbhaken, Betrag eintragen, fertig. 33 fertige Vorlagen, und die App rechnet aus, was das im Monat und im Jahr ausmacht.\n\nLink in der Bio.\n\n#hausbau #bauherren #hausbau2026 #eigenheim #nebenkosten",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag10",
+   "paket": "paket-02",
+   "tag": 10,
+   "typ": "karussell",
+   "datum": "2026-10-31",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag10_1.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag10_2.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag10_3.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag10_4.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag10_5.jpg"
+   ],
+   "cover": null,
+   "caption": "Alle Hauskosten in zwei Minuten erfasst. (Eigenwerbung)\n\n1. Haus oder Wohnung, wie groß, womit heizt du?\n2. Die App schlägt vor, was fast jeder hat.\n3. Abhaken, Betrag eintragen, fertig.\n\nLink in der Bio.\n\n#hausbau #bauherren #hausbau2026 #eigenheim #nebenkosten",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag11",
+   "paket": "paket-02",
+   "tag": 11,
+   "typ": "reel",
+   "datum": "2026-11-01",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag11.mp4"
+   ],
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag11_cover.jpg",
+   "caption": "Wann kommt eigentlich der Schornsteinfeger wieder? (Eigenwerbung)\n\nAm Haus hängen Fristen, die man leicht vergisst: Heizungswartung, Versicherung, Garantie.\n\nIn Heimblick legst du sie einmal an, mit Wiederholung. Die App erinnert dich eine Woche vorher. Erledigt? Zur Seite wischen, und der nächste Termin steht schon drin.\n\nLink in der Bio.\n\n#grundsteuer #hausbesitzer #eigenheim #einfamilienhaus #nebenkosten",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag12",
+   "paket": "paket-02",
+   "tag": 12,
+   "typ": "karussell",
+   "datum": "2026-11-02",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag12_1.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag12_2.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag12_3.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag12_4.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag12_5.jpg"
+   ],
+   "cover": null,
+   "caption": "Fristen am Haus: einmal anlegen, nie wieder suchen. (Eigenwerbung)\n\nSchornsteinfeger, Heizungswartung, Versicherung, Garantie: In Heimblick mit Wiederholung anlegen, die App erinnert eine Woche vorher.\n\nZum Speichern. Link in der Bio.\n\n#grundsteuer #hausbesitzer #eigenheim #einfamilienhaus #nebenkosten",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag13",
+   "paket": "paket-02",
+   "tag": 13,
+   "typ": "reel",
+   "datum": "2026-11-03",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag13.mp4"
+   ],
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag13_cover.jpg",
+   "caption": "Ist Kaufen wirklich teurer als Mieten? (Eigenwerbung)\n\nViele vergleichen die Kreditrate mit der Miete. Aber die Tilgung gehört am Ende dir.\n\nHeimblick vergleicht nur echte Kosten: Zinsen und laufende Kosten gegen die Kaltmiete einer vergleichbaren Wohnung. Im Beispielhaus kostet Kaufen 125 € weniger im Monat, und nebenbei baust du Eigentum auf.\n\nLink in der Bio. Vereinfachter Vergleich, keine Finanzberatung.\n\n#immobilienkauf #baufinanzierung #eigentumswohnung #hauskauf #hausbesitzer",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag14",
+   "paket": "paket-02",
+   "tag": 14,
+   "typ": "karussell",
+   "datum": "2026-11-04",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag14_1.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag14_2.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag14_3.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag14_4.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag14_5.jpg"
+   ],
+   "cover": null,
+   "caption": "Kaufen oder mieten: fair verglichen. (Eigenwerbung)\n\nNicht Kreditrate gegen Miete, sondern echte Kosten gegen Kaltmiete. Die Tilgung gehört am Ende dir.\n\nIm Beispielhaus kostet Kaufen 124,96 € weniger im Monat. Link in der Bio.\n\nVereinfachter Vergleich, keine Finanzberatung.\n\n#immobilienkauf #baufinanzierung #eigentumswohnung #hauskauf #hausbesitzer",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag15",
+   "paket": "paket-02",
+   "tag": 15,
+   "typ": "reel",
+   "datum": "2026-11-05",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag15.mp4"
+   ],
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag15_cover.jpg",
+   "caption": "Wie viel braucht dein Haus jeden Monat für später? (Eigenwerbung)\n\nDach, Heizung, Fenster: Irgendwann ist alles mal dran. Heimblick rechnet mit der Peterschen Formel: über 80 Jahre etwa das Anderthalbfache der Baukosten.\n\nIm Beispielhaus sind das 443,75 € im Monat. Und daneben siehst du, was deine Reparaturen wirklich gekostet haben.\n\nLink in der Bio. Ein Richtwert, keine Finanzberatung.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag16",
+   "paket": "paket-02",
+   "tag": 16,
+   "typ": "karussell",
+   "datum": "2026-11-06",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag16_1.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag16_2.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag16_3.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag16_4.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag16_5.jpg"
+   ],
+   "cover": null,
+   "caption": "Wie viel Rücklage braucht dein Haus? Die Petersche Formel zum Speichern. (Eigenwerbung)\n\nBaukosten je m² × 1,5 ÷ 80 × Wohnfläche = Rücklage pro Jahr.\n\nIm Beispielhaus: 443,75 € im Monat. Heimblick rechnet es mit deinen Zahlen. Link in der Bio.\n\nEin Richtwert, keine Finanzberatung.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag17",
+   "paket": "paket-02",
+   "tag": 17,
+   "typ": "reel",
+   "datum": "2026-11-07",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag17.mp4"
+   ],
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag17_cover.jpg",
+   "caption": "Wie viel Schulden hast du in zehn Jahren noch? (Eigenwerbung)\n\nJeden Monat dieselbe Rate, aber was ist dann noch offen? In Heimblick wischst du mit dem Finger durch deinen Kredit und siehst die Restschuld zu jedem Zeitpunkt.\n\nIm Beispielhaus sind es Ende 2036 noch rund 122.000 €. Die Rate bleibt gleich, aber jeden Monat zahlst du weniger Zinsen und tilgst mehr.\n\nLink in der Bio. Beispielzahlen, keine Finanzberatung.\n\n#immobilienkauf #baufinanzierung #eigentumswohnung #hauskauf #hausbesitzer",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag18",
+   "paket": "paket-02",
+   "tag": 18,
+   "typ": "karussell",
+   "datum": "2026-11-08",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag18_1.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag18_2.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag18_3.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag18_4.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag18_5.jpg"
+   ],
+   "cover": null,
+   "caption": "Wie viel ist in zehn Jahren noch offen? (Eigenwerbung)\n\nIm Tilgungsplan von Heimblick wischst du durch deinen Kredit und siehst die Restschuld zu jedem Zeitpunkt. Im Beispielhaus Ende 2036: rund 122.000 €.\n\nLink in der Bio. Beispielzahlen, keine Finanzberatung.\n\n#immobilienkauf #baufinanzierung #eigentumswohnung #hauskauf #hausbesitzer",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag19",
+   "paket": "paket-02",
+   "tag": 19,
+   "typ": "reel",
+   "datum": "2026-11-09",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag19.mp4"
+   ],
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag19_cover.jpg",
+   "caption": "Wie viel von deinem Haus gehört schon dir? (Eigenwerbung)\n\nAuf dem Papier ist es dein Haus, aber ein Teil gehört noch der Bank. Heimblick rechnet: dein geschätzter Wert minus Restschuld.\n\nIm Beispielhaus gehören dir schon 222.189,54 €. Den Wert schätzt du selbst, zum Beispiel mit dem Bodenrichtwert.\n\nLink in der Bio. Keine Wertermittlung, keine Finanzberatung.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
+   "freigegeben": true
+  },
+  {
+   "id": "paket-02-tag20",
+   "paket": "paket-02",
+   "tag": 20,
+   "typ": "karussell",
+   "datum": "2026-11-10",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag20_1.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag20_2.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag20_3.jpg",
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-02/tag20_4.jpg"
+   ],
+   "cover": null,
+   "caption": "Wie viel von deinem Haus gehört schon dir? (Eigenwerbung)\n\nGeschätzter Wert minus Restschuld. Im Beispielhaus: 222.189,54 €. Den Wert schätzt du selbst, zum Beispiel mit dem Bodenrichtwert.\n\nLink in der Bio. Keine Wertermittlung, keine Finanzberatung.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
    "freigegeben": true
   },
   {
@@ -240,5 +545,5 @@
    "freigegeben": false
   }
  ],
- "stand": "2026-10-22T18:29:03"
+ "stand": "2026-10-22T18:47:49"
 }
