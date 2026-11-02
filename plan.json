@@ -428,6 +428,20 @@
    "freigegeben": true
   },
   {
+   "id": "paket-04-tag10",
+   "paket": "paket-04",
+   "tag": 10,
+   "typ": "reel",
+   "datum": "2026-11-13",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-04/tag10.mp4"
+   ],
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-04/tag10_cover.jpg",
+   "caption": "Hand aufs Herz: Würdest du heute nochmal kaufen?\n\nGleicher Kredit über 320.000 €, 2 % Tilgung: Bei 1,5 % Zins sind es 933 € im Monat, bei 3,8 % schon 1.547 €. Und auch günstige Kredite holt es ein: Nach 10 Jahren sind bei 1,5 % noch 250.997 € offen. Zu 3,8 % weiterfinanziert steigt die Rate auf 1.213 €.\n\nAber: Wer kauft, wohnt im Eigenen.\n\nTipp: Rechne immer auch mit dem Zins nach der Zinsbindung, nicht nur mit dem heutigen.\n\nWürdest du heute nochmal kaufen?\n\nBeispielrechnung, keine Finanzberatung. Heimblick zeigt, was nach deiner Zinsbindung kommt. Link in der Bio.\n\n#kaufenodermieten #eigenheim #hauskauf #mieten #hausbesitzer",
+   "freigegeben": true
+  },
+  {
    "id": "paket-01-tag01",
    "paket": "paket-01",
    "tag": 1,
@@ -653,5 +667,5 @@
    "freigegeben": false
   }
  ],
- "stand": "2026-11-02T16:11:46"
+ "stand": "2026-11-02T16:42:28"
 }
