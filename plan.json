@@ -199,6 +199,21 @@
    "freigegeben": false
   },
   {
+   "id": "paket-03-k01",
+   "paket": "paket-03",
+   "tag": 1,
+   "typ": "reel",
+   "datum": "2026-11-02",
+   "zeit": "18:30",
+   "medien": [
+    "https://brockaimusic.github.io/heimblick-instagram/medien/paket-03/k01.mp4"
+   ],
+   "cover": "https://brockaimusic.github.io/heimblick-instagram/medien/paket-03/k01_cover.jpg",
+   "caption": "Kreditrate 1.546 €. Am Ende gehen 2.166 € vom Konto.\n\nDazu kommen Gas, Strom, Grundsteuer, Müll und mehr, im Beispielhaus 619,89 € im Monat. 659 € davon sind Tilgung, die dein Eigentum aufbaut.\n\nHeimblick rechnet das für dein Haus aus. Link in der Bio.\n\nBeispielzahlen aus der App, keine Finanzberatung.\n\n#eigenheim #hausbesitzer #baufinanzierung #nebenkosten #hauskauf",
+   "freigegeben": true,
+   "variante": "kurz-A-stimme"
+  },
+  {
    "id": "paket-02-tag13",
    "paket": "paket-02",
    "tag": 13,
@@ -554,5 +569,5 @@
    "freigegeben": false
   }
  ],
- "stand": "2026-11-02T13:11:33"
+ "stand": "2026-11-02T13:15:14"
 }
