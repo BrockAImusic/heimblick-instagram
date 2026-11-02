@@ -196,7 +196,7 @@
    ],
    "cover": null,
    "caption": "Welche Fristen hat dein Haus? Die Checkliste zum Speichern.\n\nSchornstein: Kehr- und Messarbeiten laut Feuerstättenbescheid, Nachweis spätestens 14 Tage danach, Feuerstättenschau alle 3 bis 5 Jahre.\nRauchmelder: Pflicht in allen Bundesländern, einmal im Jahr prüfen.\nTechnik und Verträge: Heizungswartung, Öltank, Wohngebäudeversicherung, Garantien.\n\nIn Heimblick einmal anlegen, die App erinnert dich. Link in der Bio.\n\n#grundsteuer #hausbesitzer #eigenheim #einfamilienhaus #nebenkosten",
-   "freigegeben": true
+   "freigegeben": false
   },
   {
    "id": "paket-02-tag13",
@@ -228,7 +228,7 @@
    ],
    "cover": null,
    "caption": "Kaufen oder mieten: Was zeigt ein einfacher Vergleich, und was nicht? Zum Speichern.\n\nIm Beispielhaus: 1.508 € echte Kosten (Zinsen + laufende Kosten) gegen 1.633 € Kaltmiete.\n\nNicht enthalten: Wertentwicklung, Mietsteigerungen, Instandhaltung, Ertrag des Eigenkapitals bei anderer Anlage, Kaufnebenkosten. Das musst du selbst einschätzen.\n\nHeimblick rechnet den Vergleich mit deinen Zahlen, Link in der Bio.\n\nVereinfachter Vergleich, keine Finanzberatung.\n\n#immobilienkauf #baufinanzierung #eigentumswohnung #hauskauf #hausbesitzer",
-   "freigegeben": true
+   "freigegeben": false
   },
   {
    "id": "paket-02-tag15",
@@ -261,7 +261,7 @@
    ],
    "cover": null,
    "caption": "Wie viel Rücklage für dein Haus? Die Petersche Formel als Tabelle. Zum Speichern.\n\nPro Monat bei 2.000 € Baukosten je m²:\n100 m²: 312,50 € · 120 m²: 375,00 € · 142 m²: 443,75 € · 160 m²: 500,00 €\n\nBei 2.500 € je m²:\n100 m²: 390,63 € · 120 m²: 468,75 € · 142 m²: 554,69 € · 160 m²: 625,00 €\n\nEin Startwert, keine Vorschrift. Heimblick rechnet mit deinen Zahlen, Link in der Bio.\n\nRichtwert, keine Finanzberatung.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
-   "freigegeben": true
+   "freigegeben": false
   },
   {
    "id": "paket-02-tag17",
@@ -294,7 +294,7 @@
    ],
    "cover": null,
    "caption": "Was bringen Sondertilgungen? Eine Beispielrechnung zum Speichern.\n\n320.000 € Kredit, 3,8 % Zins, Rate 1.546,67 €.\nMit 10.000 € Sondertilgung 2024 und 5.000 € jedes Jahr von 2027 bis 2038:\n\n▪️ 6 Jahre und 9 Monate früher schuldenfrei (11/2043 statt 08/2050)\n▪️ 55.190 € weniger Zinsen\n\nAnnahme: gleicher Zins über die gesamte Laufzeit. Heimblick rechnet es mit deinem Kredit, Link in der Bio.\n\nBeispielrechnung, keine Finanzberatung.\n\n#immobilienkauf #baufinanzierung #eigentumswohnung #hauskauf #hausbesitzer",
-   "freigegeben": true
+   "freigegeben": false
   },
   {
    "id": "paket-02-tag19",
@@ -326,7 +326,7 @@
    ],
    "cover": null,
    "caption": "Was ist mein Haus eigentlich wert? Drei Anhaltspunkte zum Speichern.\n\n1. Bodenrichtwert-Portal deines Bundeslands (BORIS) für das Grundstück\n2. Verkaufsanzeigen vergleichbarer Häuser in deiner Gegend\n3. Eine Bewertung deiner Bank\n\nHeimblick zieht die Restschuld von deiner Schätzung ab und zeigt, wie viel vom Haus schon dir gehört. Link in der Bio.\n\nKeine Wertermittlung, kein Gutachten.\n\n#eigenheim #hausbesitzer #einfamilienhaus #hauskauf #baufinanzierung",
-   "freigegeben": true
+   "freigegeben": false
   },
   {
    "id": "paket-01-tag01",
@@ -554,5 +554,5 @@
    "freigegeben": false
   }
  ],
- "stand": "2026-10-22T19:33:43"
+ "stand": "2026-11-02T13:11:33"
 }
